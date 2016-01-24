@@ -14,6 +14,22 @@ let h = require('./helpers');
     App
 */
 let App = React.createClass({
+  getInitialState: function() {
+      return {
+        fishes: {},
+        order: {}
+      }
+  },
+  addFish: function(fish) {
+    let uniqueKey = (new Date()).getTime();
+
+    // update the state object
+    this.state.fishes['fish-' + uniqueKey] = fish;
+
+    // set the state
+    this.setState({ fishes: this.state.fishes });
+    return;
+  },
   render: function() {
     return (
         <div className="catch-of-the-day">
@@ -21,9 +37,49 @@ let App = React.createClass({
                 <Header tagline="Fresh Seafood Good" />
             </div>
             <Order/>
-            <Inventory/>
+            <Inventory addFish={this.addFish} />
         </div>
     )
+  }
+});
+
+/*
+  Add Fish Form
+  <AddFishForm />
+*/
+let AddFishForm = React.createClass({
+  createFish:  function(e) {
+    e.preventDefault();
+
+    let refs = this.refs;
+
+    // get data from the form
+    let fish = {
+      name: refs.name.value,
+      price: refs.price.value,
+      status: refs.status.value,
+      desc: refs.desc.value,
+      image: refs.image.value
+    };
+
+    // Add Fish to the App State
+    this.props.addFish(fish);
+    this.refs.fishForm.reset();
+  },
+  render: function() {
+    return (
+      <form className="fish-edit" ref="fishForm" onSubmit={this.createFish}>
+        <input type="text" ref="name" placeholder="Fist Name" />
+        <input type="text" ref="price" placeholder="Fish Name" />
+        <select ref="status">
+          <option value="available">Fresh!</option>
+          <option value="unavailable">Sold Out!</option>
+        </select>
+        <textarea type="text" ref="desc" placeholder="Desc"></textarea>
+        <input type="text" ref="image" placeholder="URL to image" />
+        <button type="submit">+ Add Item </button>
+      </form>
+     )
   }
 });
 
@@ -64,7 +120,11 @@ let Order = React.createClass({
 let Inventory = React.createClass({
   render: function() {
     return (
-        <p>Inventory</p>
+      <div>
+        <h2>Inventory</h2>
+
+        <AddFishForm {...this.props} />
+      </div>
     )
   }
 });
