@@ -1,0 +1,2071 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cre",
+				"createClass"
+			],
+			[
+				"Store",
+				"StorePicker〔variable〕"
+			],
+			[
+				"read",
+				"readyToSend〔variable〕"
+			],
+			[
+				"le",
+				"lenght"
+			],
+			[
+				"addEven",
+				"addEventListener"
+			],
+			[
+				"com",
+				"\"composite\""
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"TiU",
+				"Ti.UI.SIZE"
+			],
+			[
+				"T",
+				"Ti.UI.TEXT_ALIGNMENT_LEFT"
+			],
+			[
+				"text",
+				"textAlign"
+			],
+			[
+				"Ti",
+				"Ti.UI.TEXT_ALIGNMENT_LEFT"
+			],
+			[
+				"use",
+				"useCurrentLocation"
+			],
+			[
+				"unde",
+				"undefined"
+			],
+			[
+				"lblMaxDistance",
+				"lblMaxDistanceText"
+			],
+			[
+				"acce",
+				"accessibilityText"
+			],
+			[
+				"string",
+				"stringify()"
+			],
+			[
+				"ti",
+				"Ti.UI.SIZE"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"OS_",
+				"OS_ANDROID"
+			],
+			[
+				"font",
+				"fontSize"
+			],
+			[
+				"back",
+				"backgroundColor"
+			],
+			[
+				"challegn",
+				"challengeView〔namespace〕"
+			],
+			[
+				"Text",
+				"textAlign"
+			],
+			[
+				"border",
+				"borderColor"
+			],
+			[
+				"ba",
+				"backgroundColor"
+			],
+			[
+				"backgr",
+				"backgroundRepeat"
+			],
+			[
+				"ima",
+				"ImageView"
+			],
+			[
+				"fon",
+				"fontSize"
+			],
+			[
+				"jquer",
+				"jquery-bridget/"
+			],
+			[
+				"bower",
+				"bower_components/"
+			],
+			[
+				"ang",
+				"angular-masonry.js"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"Tii",
+				"Ti.UI.SIZE"
+			],
+			[
+				"speaker",
+				"$speaker_type〔variable〕"
+			],
+			[
+				"fir",
+				"firstName"
+			],
+			[
+				"room",
+				"RoomIdentified"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"text-",
+				"text-decoration"
+			],
+			[
+				"bl",
+				"inline-block"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"font-",
+				"font-style"
+			],
+			[
+				"va",
+				"var_dump"
+			],
+			[
+				"opt",
+				"option	Tag"
+			],
+			[
+				"wid",
+				"width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day/index.html",
+			"settings":
+			{
+				"buffer_size": 587,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "main.js",
+			"settings":
+			{
+				"buffer_size": 2066,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day/build/main.js",
+			"settings":
+			{
+				"buffer_size": 2071112,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day/package.json",
+			"settings":
+			{
+				"buffer_size": 999,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 271.0,
+		"last_filter": "listpa",
+		"selected_items":
+		[
+			[
+				"listpa",
+				"Package Control: List Packages"
+			],
+			[
+				"stj",
+				"Set Syntax: JSON"
+			],
+			[
+				"jsonpre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"setj",
+				"Set Syntax: JSON"
+			],
+			[
+				"seth",
+				"Set Syntax: HTML"
+			],
+			[
+				"UPPER",
+				"Convert Case: Upper Case"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"set jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"setjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"setjo",
+				"Set Syntax: JSON"
+			],
+			[
+				"list ",
+				"Sort Lines (Case Sensitive)"
+			],
+			[
+				"listp",
+				"Package Control: List Packages"
+			],
+			[
+				"sej",
+				"Set Syntax: JSON"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jscs",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"jsonrp",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"set",
+				"Set Syntax: JSON"
+			],
+			[
+				"jsonprett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"setjso",
+				"Set Syntax: JSON"
+			],
+			[
+				"setjson",
+				"Set Syntax: JSON"
+			],
+			[
+				"stejson",
+				"Set Syntax: JSON"
+			],
+			[
+				"jsonpr",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"setphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"git l",
+				"Git: Blame"
+			],
+			[
+				"git bla",
+				"Set Syntax: Git Blame"
+			],
+			[
+				"json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"gitb",
+				"Git: Blame"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"jsc",
+				"JSCS Formatter: Format this file"
+			],
+			[
+				"colorp",
+				"Color Picker"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"fixmy",
+				"FixMyJS"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"instl",
+				"Package Control: Install Package"
+			],
+			[
+				"uniqu",
+				"Permute Lines: Unique"
+			],
+			[
+				"rever",
+				"Permute Lines: Reverse"
+			],
+			[
+				"sort",
+				"Sort Lines"
+			],
+			[
+				"shuff",
+				"Permute Lines: Shuffle"
+			],
+			[
+				"settss",
+				"Set Syntax: TSS"
+			],
+			[
+				"setcss",
+				"Set Syntax: CSS"
+			],
+			[
+				"setsyshell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"setsynmark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"disable",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"setht",
+				"Set Syntax: HTML"
+			],
+			[
+				"lowe",
+				"Convert Case: Lower Case"
+			],
+			[
+				"seht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"htmlbe",
+				"HTMLBeautify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"sethtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"instll",
+				"Bower: Install"
+			],
+			[
+				"htmlpr",
+				"HTMLPrettify"
+			],
+			[
+				"wakatime",
+				"WakaTime: Open Dashboard"
+			],
+			[
+				"fix",
+				"FixMyJS"
+			],
+			[
+				"enble lin",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"jshint",
+				"JSHint"
+			],
+			[
+				"fixm",
+				"FixMyJS"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disabl",
+				"SublimeLinter: Disable Linter"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"lint",
+				"SublimeLinter: Show Errors on Save"
+			],
+			[
+				"prett",
+				"Preferences: Settings - Default"
+			],
+			[
+				"pretty",
+				"HTMLPrettify"
+			],
+			[
+				"pretti ",
+				"HTMLPrettify"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"text pastr from 1",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"text pas",
+				"Text Pastry: From 1 To X"
+			],
+			[
+				"listpac",
+				"Package Control: List Packages"
+			],
+			[
+				"List pa",
+				"Package Control: List Packages"
+			],
+			[
+				"number",
+				"Emmet: Increment Number by 1"
+			],
+			[
+				"sethtm",
+				"Set Syntax: HTML"
+			],
+			[
+				"sethmtl",
+				"Set Syntax: HTML"
+			],
+			[
+				"set java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"",
+				"AlignTab: Table Mode"
+			],
+			[
+				"ident",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"ide",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reindet",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"wor",
+				"Word Wrap: Toggle"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"titaniu",
+				"Build: Titanium"
+			],
+			[
+				"titan",
+				"Set Syntax: Titanium StyleSheet"
+			],
+			[
+				"titanium",
+				"Build: Titanium"
+			],
+			[
+				"packa",
+				"Package Control: List Packages"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"syntax",
+				"Set Syntax: CSS3"
+			],
+			[
+				"Color",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 490.0
+	},
+	"console":
+	{
+		"height": 155.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day",
+		"/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day/build",
+		"/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day/css"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day/build/main.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/search/filterCourse.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/search/filterCourse.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/courseRankings/courseRanking.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/alloy.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/models/user.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/authentication/login.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/models/course.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/search/courseRank.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/home/menu.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/search/searchCourse.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/search/searchCourse.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/config.json",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/home/menu.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/tiapp.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/myClub/clubRanking.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/ranking/myRank.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/iphone/alloy/controllers/courseRankings/courseRanking.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/course/rateCourse.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/course/startSearch.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/courseRankings/courseRanking.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/myClub/club_course_detail.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/course/rankingSlider.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/iphone/app.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/app.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/models/rank.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/search/locationSearch.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/search/locationSearch.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/myClub/clubDetail.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/widgets/nl.fokkezb.infiniteScroll/controllers/widget.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/myClub/clubListing.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/myClub/clubDetail.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/build/iphone/build/Intermediates/PrecompiledHeaders/Golf_Rank_Prefix-dyascosjvdoeuvbwghqwjonawfbp/Golf_Rank_Prefix.pch.pch.hash-criteria",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/course/rateCourse.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/myClub/clubListing.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/myClub/clubRanking.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/myClub/club_course_detail.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/ranking/myRank.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/authentication/register.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/authentication/termsCondition.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/authentication/register.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/build/map/Resources/iphone/alloy/controllers/search/filterCourse.js.map",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/course/rankingSlider.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/myClub/memberList.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/lib/rates.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/search/filterCourse.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/app.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/models/locations.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/course/startSearch.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/courseRankings/courseRanking.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/myClub/clubRanking.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/myClub/inviteMember.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/myClub/memberList.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/myClub/userMemberClubListing.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/ranking/myRank.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/search/searchCourse.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/lib/background.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/home/menu.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/index.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/models/weather.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/course/startSearch.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/myClub/inviteMember.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/myClub/memberList.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/build/iphone/Classes/TiApp.h",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/build/iphone/assets/alloy/controllers/home/menu_js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/search/courseRank.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/lib/corejs/utilities.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/iphone/alloy/controllers/course/rateCourse.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/iphone/alloy/controllers/search/courseRank.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/iphone/alloy/controllers/course/rankingSlider.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/authentication/register.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/build/iphone/build/Products/Debug-iphonesimulator/Golf Rank.app/alloy/controllers/search/courseRank.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/search/locationSearch.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/lib/moment.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/models/club.js",
+		"/Users/brunogenaro/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/brunogenaro/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/authentication/login.xml",
+		"/Users/brunogenaro/Downloads/index.html",
+		"/Users/brunogenaro/Downloads/manifest.plist",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/iphone/alloy/controllers/authentication/register.js",
+		"/Users/brunogenaro/.npmrc",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/android/alloy/controllers/authentication/login.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/build/iphone/build/Debug-iphonesimulator/Golf Rank.app/utilities.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/index.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/platform/android/res/values/themes.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/platform/android/res/values/strings.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/build/android/AndroidManifest.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/course/rankingSlider.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/myClub/clubListing.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/common/rowView.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/course/rateCourse.tss",
+		"/Users/brunogenaro/Downloads/DSC00828.JPG",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/lib/navigation.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/android/navigation.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/lib/corejs/navigationBKP.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/authentication/registerForm.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/authentication/registerForm.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/controllers/authentication/registerForm.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources/android/alloy/controllers/authentication/register.js",
+		"/Users/brunogenaro/Library/Caches/Cleanup At Startup/Transmit/903AF0F0-A16F-45B6-BEAF-3EBD0CFEF523/index.php",
+		"/Users/brunogenaro/Desktop/craigslist",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/lib/navigationBKP.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/common/rowView.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/views/common/rowView.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/search/courseRank.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/lib/simpleTableSectionView.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/build/android/assets/alloy/controllers/course/startSearch.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/styles/authentication/login.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/widgets/danielhanold.pickerWidget/controllers/widget.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/widgets/danielhanold.pickerWidget/views/pickerView.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/widgets/danielhanold.pickerWidget/styles/android/pickerView.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/app/lib/corejs/navigation.js",
+		"/Users/brunogenaro/Downloads/GolfRank.json.postman_collection",
+		"/Users/brunogenaro/Library/Caches/Cleanup At Startup/Transmit/BB007B0C-A209-45D7-86B5-27F4F8D7C04D/revisao.php",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/app/styles/login/login.tss",
+		"/Users/brunogenaro/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/tiapp.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/app/views/profile/editProfile.xml",
+		"/Users/brunogenaro/.zshrc",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/app/styles/challenge/challengeDetail.tss",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/app/views/challenge/challengeDetail.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/app/controllers/challenge/challengeDetail.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/app/models/challenge.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/Resources/iphone/alloy/widget.js",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/app/widgets/com.tabmenubar/views/widget.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/app/views/video/videoUpload.xml",
+		"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/twisters-chalkup-mobile-app/app/styles/index.tss"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<project>",
+			"<project>,*.xml",
+			"<project>",
+			"<project>,*.js",
+			"<project>",
+			"<project>,*.xml",
+			"<project>",
+			"/Users/brunogenaro/Documents/Appcelerator_Studio_Workspace/Golf Rank/Resources",
+			"<project>",
+			"/Users/brunogenaro/Documents/Titanium_Studio_Workspace/fanatix-mobile-app/app/themes/brett_eldredge",
+			"<project>",
+			"<project>,*.tss",
+			"<project>",
+			"/Users/brunogenaro/Documents/Titanium_Studio_Workspace/fanatix-mobile-app/app/themes/family_force_5/styles",
+			"<project>",
+			"<project>,*.js",
+			"<project>",
+			"<project>setStatusBarStyle",
+			"<folder>",
+			"/Applications/MAMP/htdocs/Concepta/KingdomStrollerVersioned/KSFrontend",
+			"<project>",
+			"/Applications/MAMP/htdocs/Concepta/Kaluah/wp-content/plugins/travel-logic",
+			"<project>",
+			"/Applications/MAMP/htdocs/Concepta/Kaluah-WP/wp-content",
+			"<project>",
+			"<project>/wp-content/themes/travel-logics",
+			"<project>",
+			"/Applications/MAMP/htdocs/Concepta/CRM/prebuilt/",
+			"",
+			"/Applications/MAMP/htdocs/Concepta/fpa-one/wp-content/plugins",
+			"/Applications/MAMP/htdocs/Concepta/first-quality",
+			"/Users/brunogenaro/Documents/Titanium_Studio_Workspace/Equitable National Title-1",
+			"/Users/brunogenaro/Documents/Titanium_Studio_Workspace/Equitable National Title",
+			"/Applications/MAMP/htdocs/Concepta/wonderstruk/wordpress/wp-content",
+			"/themes",
+			"/Applications/MAMP/htdocs/Concepta/wonderstruk/wordpress/wp-content/themes",
+			"/Users/brunogenaro/Downloads/estate",
+			"/Applications/MAMP/htdocs/Concepta/resort-blog"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"createBrowserHistory",
+			"var ",
+			"creatClass",
+			"Inventory",
+			"Header",
+			"react",
+			"onRankings",
+			"courseRankings/courseRanking",
+			"var leftView = Ti.UI.createButton({",
+			"courseObj",
+			"Alloy.Globals.getPinColor",
+			"[WARN]  ",
+			"open(",
+			"filterCoursesRankingTest",
+			"eRankingNew",
+			"courseRankingNew.filterBy",
+			"models",
+			"offset",
+			"http://app.golfrankapp.com/courses?{\"clubName\":{\"$exists\":true},\"$limit\":7,\"$skip\":7,\"$or\":[{\"title\":{\"$regex\":\"Orlando\",\"$options\":\"mix\"}},{\"clubName\":{\"$regex\":\"Orlando\",\"$options\":\"mix\"}},{\"address.city\":{\"$regex\":\"Orlando\",\"$options\":\"mix\"}},{\"address.state\":{\"$regex\":\"Orlando\",\"$options\":\"mix\"}},{\"address.country\":{\"$regex\":\"Orlando\",\"$options\":\"mix\"}}],\"maxDistance\":\"\",\"latitude\":\"\",\"longitude\":\"\"}",
+			"loadCourses",
+			"urlRoot",
+			"authenticate",
+			"login",
+			"Login",
+			"login",
+			"fetch",
+			"[WARN]  ",
+			"args.onf",
+			"onFilter",
+			"args.onFilter(",
+			"[WARN]  ",
+			"loadCourses",
+			"onFilter",
+			"loadCourses",
+			"http://104.131.99.49:5050",
+			"function buildPins(",
+			"open('myClub/clubRanking'",
+			"function buildPins(",
+			"onRankings",
+			"open('courseRankings/courseRanking",
+			"open.('courseRankings/courseRanking",
+			"open.('courseRanking",
+			"courseRanking",
+			"function buildPins(",
+			"function buildPins(elem) {",
+			"createMapAnnotation",
+			"totalExperience",
+			"6;",
+			"totalExperience",
+			"[WARN]      ",
+			"validationRules",
+			" = ",
+			"[WARN]      ",
+			"golfdige",
+			"http://104.131.99.49:5050",
+			"http://app.golfrankapp.com",
+			"golfrankapp",
+			"var pin = Ti.UI.createLabel({",
+			"NumOfUrsers",
+			"open",
+			"NumOfUrsers",
+			"console.warn",
+			"NumOfUrsers",
+			"createMapAnnotation",
+			"buildPins",
+			"weatherFunc",
+			"updatePins",
+			"[WARN]  ",
+			"loadCourses",
+			"onChange",
+			"onSearch",
+			"updatePins",
+			"fetchMore",
+			"fetch more",
+			"fetchmore",
+			"updatePins();",
+			"onSearch",
+			"clearMapAnnotations",
+			"loadCourses",
+			"onChange",
+			"remove",
+			"loadCourses",
+			"annotations",
+			"buildPins",
+			"loadCourses",
+			"ANNOTATIONS",
+			"Annotations",
+			"ANNOTATIONS",
+			"annotations",
+			"Annotations",
+			"ANNOTATIONS",
+			"updatePins",
+			"switch",
+			"totalScore",
+			"notRanked",
+			"onChange",
+			"notRanked",
+			"open(",
+			"searchCourse",
+			"notRanked",
+			"$.lblCourseScore.text",
+			"open",
+			"rates.dictCourse",
+			"open",
+			"course.totalScore = \"NR\";",
+			"search/courseRank",
+			"club",
+			"_course",
+			"open",
+			"club",
+			"buildPins",
+			"updatePins",
+			"onRankings",
+			"/courseRanking",
+			"courseRanking",
+			"buildPins",
+			" =",
+			",",
+			"buildPins",
+			"createMapAnnotation",
+			"dictCourse",
+			"roundResult",
+			"open",
+			"http://app.golfrankapp.com",
+			"onSearchCourse",
+			"http://104.131.99.49:5050",
+			"http://app.golfrankapp.com/dashboard",
+			"http://104.131.99.49:5050"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"rates.calculateCourseScore(",
+			"",
+			"438296",
+			"ea0303",
+			"6F5252",
+			"3D2D2D",
+			"<li><a href=\"warranties.html\">Warranties</a></li>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 587,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								459,
+								463
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2066,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1355,
+								1355
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1125.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day/build/main.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2071112,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"auto_complete": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1401.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/Applications/MAMP/htdocs/eBooks/React/React-For-Beginners-Starter-Files-master/catch-of-the-day/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 999,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								821,
+								826
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content"
+							],
+							"color_scheme": "Packages/User/Color Highlighter/themes/cobalt2.tmTheme",
+							"syntax": "Packages/Material Theme/langs/npm JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 153.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 126.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 102.0
+	},
+	"pinned_build_system": "",
+	"project": "React-Catch-Of-The-Day.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"main.js",
+				"scripts/main.js"
+			],
+			[
+				"tipp",
+				"tiapp.xml"
+			],
+			[
+				"confi",
+				"app/config.json"
+			],
+			[
+				"search/courserank.js",
+				"app/controllers/search/courseRank.js"
+			],
+			[
+				"courserankings/courseranking.js",
+				"app/controllers/courseRankings/courseRanking.js"
+			],
+			[
+				"menu.js",
+				"app/controllers/home/menu.js"
+			],
+			[
+				"menu.xml",
+				"app/views/home/menu.xml"
+			],
+			[
+				"models/course.js",
+				"app/models/course.js"
+			],
+			[
+				"model/user.js",
+				"app/models/user.js"
+			],
+			[
+				"login.js",
+				"app/controllers/authentication/login.js"
+			],
+			[
+				"model/course.js",
+				"app/models/course.js"
+			],
+			[
+				"search/filtercourse.js",
+				"app/controllers/search/filterCourse.js"
+			],
+			[
+				"tiapp.xml",
+				"tiapp.xml"
+			],
+			[
+				"conf",
+				"app/config.json"
+			],
+			[
+				"filtercourse",
+				"app/views/search/filterCourse.xml"
+			],
+			[
+				"config",
+				"app/config.json"
+			],
+			[
+				"searchcourse.js",
+				"app/controllers/search/searchCourse.js"
+			],
+			[
+				"searchcourse",
+				"app/views/search/searchCourse.xml"
+			],
+			[
+				"courserank.js",
+				"app/controllers/search/courseRank.js"
+			],
+			[
+				"search/searchcourse.js",
+				"app/controllers/search/searchCourse.js"
+			],
+			[
+				"myrank.js",
+				"app/controllers/ranking/myRank.js"
+			],
+			[
+				"course/ratecourse.js",
+				"app/controllers/course/rateCourse.js"
+			],
+			[
+				"course/startsearch.js",
+				"app/controllers/course/startSearch.js"
+			],
+			[
+				"courserank",
+				"app/controllers/courseRankings/courseRanking.js"
+			],
+			[
+				"search/courserank",
+				"app/controllers/search/courseRank.js"
+			],
+			[
+				"searchcourse.xml",
+				"app/views/search/searchCourse.xml"
+			],
+			[
+				"searchcurse.js",
+				"app/controllers/search/searchCourse.js"
+			],
+			[
+				"con",
+				"app/config.json"
+			],
+			[
+				"alloy.js",
+				"app/alloy.js"
+			],
+			[
+				"courserankinxml",
+				"app/views/courseRankings/courseRanking.xml"
+			],
+			[
+				"app.js",
+				"Resources/iphone/app.js"
+			],
+			[
+				"app.kjs",
+				"app/models/rank.js"
+			],
+			[
+				"search/searchcourse",
+				"app/controllers/search/searchCourse.js"
+			],
+			[
+				"model/course",
+				"app/models/course.js"
+			],
+			[
+				"locationsearch.js",
+				"app/controllers/search/locationSearch.js"
+			],
+			[
+				"searchcouse.js",
+				"app/controllers/search/searchCourse.js"
+			],
+			[
+				"filtercourse.xml",
+				"app/views/search/filterCourse.xml"
+			],
+			[
+				"myclub/clubranking.js",
+				"app/controllers/myClub/clubRanking.js"
+			],
+			[
+				"clubdetail.xml",
+				"app/views/myClub/clubDetail.xml"
+			],
+			[
+				"myclub/clubdetail.js",
+				"app/controllers/myClub/clubDetail.js"
+			],
+			[
+				"myclub/clublisting.js",
+				"app/controllers/myClub/clubListing.js"
+			],
+			[
+				"myrank.hs",
+				"build/iphone/build/Intermediates/PrecompiledHeaders/Golf_Rank_Prefix-dyascosjvdoeuvbwghqwjonawfbp/Golf_Rank_Prefix.pch.pch.hash-criteria"
+			],
+			[
+				"courseranking.xml",
+				"app/views/courseRankings/courseRanking.xml"
+			],
+			[
+				"search/searchcourse.xml",
+				"app/views/search/searchCourse.xml"
+			],
+			[
+				"clubranking.xml",
+				"app/views/myClub/clubRanking.xml"
+			],
+			[
+				"ratecourse.xml",
+				"app/views/course/rateCourse.xml"
+			],
+			[
+				"myclub/club_course_detail.xml",
+				"app/views/myClub/club_course_detail.xml"
+			],
+			[
+				"myclub/club_course_detail.js",
+				"app/controllers/myClub/club_course_detail.js"
+			],
+			[
+				"clubdetail.js",
+				"app/controllers/myClub/clubDetail.js"
+			],
+			[
+				"myclub/clubdetail.xml",
+				"app/views/myClub/clubDetail.xml"
+			],
+			[
+				"clublisting.xml",
+				"app/views/myClub/clubListing.xml"
+			],
+			[
+				"tiapp",
+				"tiapp.xml"
+			],
+			[
+				"model/rank",
+				"app/models/rank.js"
+			],
+			[
+				"ranking/myrank.mxl",
+				"app/views/ranking/myRank.xml"
+			],
+			[
+				"ranking/myrank.js",
+				"app/controllers/ranking/myRank.js"
+			],
+			[
+				"courserankin.js",
+				"app/controllers/courseRankings/courseRanking.js"
+			],
+			[
+				"myran",
+				"app/controllers/ranking/myRank.js"
+			],
+			[
+				"termscondition.xml",
+				"app/views/authentication/termsCondition.xml"
+			],
+			[
+				"profile.js",
+				"build/map/Resources/iphone/alloy/controllers/search/filterCourse.js.map"
+			],
+			[
+				"model/cous",
+				"app/models/course.js"
+			],
+			[
+				"register.xml",
+				"app/views/authentication/register.xml"
+			],
+			[
+				"authentication/register.js",
+				"app/controllers/authentication/register.js"
+			],
+			[
+				"myclub/memberlist.js",
+				"app/controllers/myClub/memberList.js"
+			],
+			[
+				"lubdetail.js",
+				"app/controllers/myClub/clubDetail.js"
+			],
+			[
+				"courserankings/courseranking",
+				"app/controllers/courseRankings/courseRanking.js"
+			],
+			[
+				"myrank",
+				"app/controllers/ranking/myRank.js"
+			],
+			[
+				"rankingslider.xml",
+				"app/views/course/rankingSlider.xml"
+			],
+			[
+				"course/rankingslider.js",
+				"app/controllers/course/rankingSlider.js"
+			],
+			[
+				"course/startsearch",
+				"app/controllers/course/startSearch.js"
+			],
+			[
+				"searc",
+				"app/controllers/search/searchCourse.js"
+			],
+			[
+				"courserankin",
+				"app/views/courseRankings/courseRanking.xml"
+			],
+			[
+				"courssernk",
+				"app/controllers/courseRankings/courseRanking.js"
+			],
+			[
+				"filtercourse.tss",
+				"app/styles/search/filterCourse.tss"
+			],
+			[
+				"courseranking.js",
+				"app/controllers/courseRankings/courseRanking.js"
+			],
+			[
+				"courserankings/courseranking.xml",
+				"app/views/courseRankings/courseRanking.xml"
+			],
+			[
+				"app.tss",
+				"app/styles/app.tss"
+			],
+			[
+				"myclub/clubranking.xml",
+				"app/views/myClub/clubRanking.xml"
+			],
+			[
+				"myrank.tss",
+				"app/styles/ranking/myRank.tss"
+			],
+			[
+				"home.xml",
+				"app/views/home/menu.xml"
+			],
+			[
+				"",
+				"tiapp.xml"
+			],
+			[
+				"ranking/myrank.xml",
+				"app/views/ranking/myRank.xml"
+			],
+			[
+				"ranking/myrank",
+				"app/controllers/ranking/myRank.js"
+			],
+			[
+				"background",
+				"app/lib/background.js"
+			],
+			[
+				"menu.tss",
+				"app/styles/home/menu.tss"
+			],
+			[
+				"index.js",
+				"app/controllers/index.js"
+			],
+			[
+				"alloy",
+				"app/alloy.js"
+			],
+			[
+				"home",
+				"app/controllers/home/menu.js"
+			],
+			[
+				"model/locations",
+				"app/models/locations.js"
+			],
+			[
+				"searchcours.js",
+				"app/controllers/search/searchCourse.js"
+			],
+			[
+				"clubranking.tss",
+				"app/styles/myClub/clubRanking.tss"
+			],
+			[
+				"myclub/clubranking",
+				"app/controllers/myClub/clubRanking.js"
+			],
+			[
+				"searchcourse.tss",
+				"app/styles/search/searchCourse.tss"
+			],
+			[
+				"courserankin.tss",
+				"app/styles/courseRankings/courseRanking.tss"
+			],
+			[
+				"filtercourse.js",
+				"app/controllers/search/filterCourse.js"
+			],
+			[
+				"model/c",
+				"app/models/course.js"
+			],
+			[
+				"filtercou.xml",
+				"app/views/search/filterCourse.xml"
+			],
+			[
+				"filter",
+				"app/controllers/search/filterCourse.js"
+			],
+			[
+				"course/startsearch.xml",
+				"app/views/course/startSearch.xml"
+			],
+			[
+				"filter.js",
+				"app/controllers/search/filterCourse.js"
+			],
+			[
+				"fitler.xml",
+				"app/views/search/filterCourse.xml"
+			],
+			[
+				"courseranking.tss",
+				"app/styles/courseRankings/courseRanking.tss"
+			],
+			[
+				"clubranking",
+				"app/controllers/myClub/clubRanking.js"
+			],
+			[
+				"tiap",
+				"build/iphone/Classes/TiApp.h"
+			],
+			[
+				"model/cours",
+				"app/models/course.js"
+			],
+			[
+				"courran",
+				"app/controllers/courseRankings/courseRanking.js"
+			],
+			[
+				"courser",
+				"app/controllers/courseRankings/courseRanking.js"
+			],
+			[
+				"tia",
+				"tiapp.xml"
+			],
+			[
+				"rankingslider",
+				"app/controllers/course/rankingSlider.js"
+			],
+			[
+				"registe",
+				"app/controllers/authentication/register.js"
+			],
+			[
+				"menujs",
+				"build/iphone/assets/alloy/controllers/home/menu_js"
+			],
+			[
+				"start",
+				"app/controllers/course/startSearch.js"
+			],
+			[
+				"clublisting",
+				"app/controllers/myClub/clubListing.js"
+			],
+			[
+				"invitem",
+				"app/controllers/myClub/inviteMember.js"
+			],
+			[
+				"memberlist.xml",
+				"app/views/myClub/memberList.xml"
+			],
+			[
+				"memberlist",
+				"app/controllers/myClub/memberList.js"
+			],
+			[
+				"clubraning",
+				"app/controllers/myClub/clubRanking.js"
+			],
+			[
+				"filtercouse",
+				"app/controllers/search/filterCourse.js"
+			],
+			[
+				"courseranki",
+				"app/controllers/courseRankings/courseRanking.js"
+			],
+			[
+				"rankislider.xml",
+				"app/views/course/rankingSlider.xml"
+			],
+			[
+				"course/rankslider.js",
+				"app/controllers/course/rankingSlider.js"
+			],
+			[
+				"course/star",
+				"app/controllers/course/startSearch.js"
+			],
+			[
+				"coure/ratecour",
+				"app/controllers/course/rateCourse.js"
+			],
+			[
+				"rankig/myran",
+				"app/controllers/ranking/myRank.js"
+			],
+			[
+				"login.",
+				"app/controllers/authentication/login.js"
+			],
+			[
+				"courrani.tss",
+				"app/styles/courseRankings/courseRanking.tss"
+			],
+			[
+				"login",
+				"app/controllers/authentication/login.js"
+			],
+			[
+				"model/user",
+				"app/models/user.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "golf",
+		"selected_items":
+		[
+			[
+				"golf",
+				"/Applications/MAMP/htdocs/Projects/GolfRank.sublime-project"
+			],
+			[
+				"blue",
+				"~/Documents/Appcelerator_Studio_Workspace/bluebufallo/blue-bufallo.sublime-project"
+			],
+			[
+				"bl",
+				"~/Documents/Appcelerator_Studio_Workspace/bluebufallo/blue-bufallo.sublime-project"
+			],
+			[
+				"bluebu",
+				"~/Documents/Appcelerator_Studio_Workspace/bluebufallo/blue-bufallo.sublime-project"
+			],
+			[
+				"kin",
+				"/Applications/MAMP/htdocs/Projects/KingdomStrollers.sublime-project"
+			],
+			[
+				"kingdom",
+				"~/Documents/Appcelerator_Studio_Workspace/kingdom-strollers-android-mobile-app/kingdom-strollers-android-mobile-app.sublime-project"
+			],
+			[
+				"gms",
+				"/Applications/MAMP/htdocs/GMS-Versioned/GMS-Versioned.sublime-project"
+			],
+			[
+				"blu",
+				"~/Documents/Appcelerator_Studio_Workspace/bluebufallo/blue-bufallo.sublime-project"
+			],
+			[
+				"chalk",
+				"/Applications/MAMP/htdocs/Projects/twisters-chalkup-mobile-app.sublime-project"
+			],
+			[
+				"kingod",
+				"~/Documents/Appcelerator_Studio_Workspace/kingdom-strollers-android-mobile-app/kingdom-strollers-android-mobile-app.sublime-project"
+			],
+			[
+				"king",
+				"~/Documents/Appcelerator_Studio_Workspace/kingdom-strollers-android-mobile-app/kingdom-strollers-android-mobile-app.sublime-project"
+			],
+			[
+				"KING",
+				"~/Documents/Appcelerator_Studio_Workspace/kingdom-strollers-android-mobile-app/kingdom-strollers-android-mobile-app.sublime-project"
+			],
+			[
+				"blueb",
+				"~/Documents/Appcelerator_Studio_Workspace/bluebufallo/blue-bufallo.sublime-project"
+			],
+			[
+				"",
+				"/Applications/MAMP/htdocs/Projects/Fanatix-Mobile-App.sublime-project"
+			],
+			[
+				"chal",
+				"/Applications/MAMP/htdocs/Projects/twisters-chalkup-mobile-app.sublime-project"
+			],
+			[
+				"cha",
+				"/Applications/MAMP/htdocs/Projects/twisters-chalkup-mobile-app.sublime-project"
+			],
+			[
+				"heller",
+				"/Applications/MAMP/htdocs/Projects/Heller-Backend.sublime-project"
+			],
+			[
+				"kaluah",
+				"/Applications/MAMP/htdocs/Projects/kaluah-b2c-wordpress.sublime-project"
+			],
+			[
+				"TLE",
+				"/Applications/MAMP/htdocs/Projects/TLE-Parent-App.sublime-project"
+			],
+			[
+				"Kalua",
+				"/Applications/MAMP/htdocs/Projects/Kaluah-WP.sublime-project"
+			],
+			[
+				"acm",
+				"/Applications/MAMP/htdocs/Projects/ACM.sublime-project"
+			],
+			[
+				"pla",
+				"/Applications/MAMP/htdocs/Projects/PlatinaCare.sublime-project"
+			],
+			[
+				"peoj",
+				"~/Documents/Talks/SublimeText/Project1.sublime-project"
+			],
+			[
+				"pe",
+				"~/Documents/Talks/SublimeText/Project1.sublime-project"
+			],
+			[
+				"cady",
+				"/Applications/MAMP/htdocs/Concepta/Cady/CapGown2015/Cady-CapGown2015.sublime-project"
+			],
+			[
+				"kalu",
+				"/Applications/MAMP/htdocs/Projects/Kaluah-Concierge-Foundation.sublime-project"
+			],
+			[
+				"fi",
+				"/Applications/MAMP/htdocs/Concepta/first-quality/public/admin/firstQuality.sublime-project"
+			],
+			[
+				"angular",
+				"/Applications/MAMP/htdocs/CodeSchool/angular-seed/app/angularSeed.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 692.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 215.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
