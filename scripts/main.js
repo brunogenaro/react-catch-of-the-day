@@ -1,5 +1,6 @@
 let React = require('react');
 let ReactDOM = require('react-dom');
+let CSSTransitionGroup = require('react-addons-css-transition-group');
 
 let ReactRouter = require('react-router');
 let Router = ReactRouter.Router;
@@ -217,13 +218,19 @@ let Order = React.createClass({
     return (
         <div className="order-wrap">
           <h2 className="order-title">Your Order</h2>
-            <ul className="order">
+            <CSSTransitionGroup
+              className="order"
+              component="ul"
+              transitionName="order"
+              transitionEnterTimeout={500}
+              transitionLeaveTimeout={400}
+            >
               {orderIds.map(this.renderOrder)}
               <li className="total">
                 <strong>Total:</strong>
                 {h.formatPrice(total)}
               </li>
-            </ul>
+            </CSSTransitionGroup>
         </div>
     )
   }
